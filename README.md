@@ -1,4 +1,4 @@
-# Student Math Score Predictor (green theme)
+# Student Math Score Predictor 
 
 ## Run in VS Code (Windows cmd)
 1. Open this folder in VS Code (File > Open Folder).
